@@ -19,7 +19,7 @@ Money tools often feel cold, complicated, or intimidating especially for young c
 - No frameworks, no backend, no tracking
 
 ## 🤝 Acknowledgements
-This project was built by me, with creative support from Claude — an AI assistant that helped me iterate on layout, readability, and small UI refinements. All design decisions, logic, and direction were guided by my own vision for a cozy, emotionally intelligent finance tool.
+This project was built by me, with creative support from Claude, an AI assistant that helped me iterate on layout, readability, and small UI refinements. All design decisions, logic, and direction were guided by my own vision for a cozy, emotionally intelligent finance tool.
 
 ## 🚀 How to Use
 1. Enter how much you already have saved  
