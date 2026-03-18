@@ -1,6 +1,6 @@
 # 🌱 Savings Calculator
 
-A gentle, beginner‑friendly savings calculator designed to make money feel less overwhelming and more hopeful. This tool helps you estimate how your savings can grow over time through consistent contributions and compound interest — without shame, jargon, or pressure.
+A gentle, beginner‑friendly savings calculator designed to make money feel less overwhelming and more hopeful. This tool helps you estimate how your savings can grow over time through consistent contributions and compound interest (without shame, jargon, or pressure.)
 
 ## ✨ Features
 - Input your current savings, monthly contributions, and timeline  
@@ -33,4 +33,4 @@ Download the files and open `index.html` in your browser.
 No setup required.
 
 ## 💛 About the Creator
-Created by Alyssa (@her.wealthmindset) — a personal finance creator focused on emotionally intelligent, shame‑free money education. This tool is part of a larger journey toward making finance feel inviting and empowering for young people.
+Created by Alyssa (@her.wealthmindset), a personal finance creator focused on emotionally intelligent, shame‑free money education. This tool is part of a larger journey toward making finance feel inviting and empowering for young people.
